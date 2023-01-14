@@ -1,0 +1,44 @@
+[
+  {
+    "from": "Katraj",
+    "to": "Shivaji-Nagar",
+    "departureTime": "7.30 AM",
+    "arrivalTime": "8.25 AM"
+  },
+  {
+    "from": "Shivaji-Nagar",
+    "to": "Katraj",
+    "departureTime": "8.25 AM",
+    "arrivalTime": "9.20 AM"
+  },
+  {
+    "from": "Swargate",
+    "to": "Sahakar-Nagar",
+    "departureTime": "6.00 AM",
+    "arrivalTime": "6.35 AM"
+  },
+  {
+    "from": "Sahakar-Nagar",
+    "to": "Swargate",
+    "departureTime": "6.15 AM",
+    "arrivalTime": "6.55 AM"
+  },
+  {
+    "from": "Pulgate",
+    "to": "Kondhawa Khurd",
+    "departureTime": "7.05 AM",
+    "arrivalTime": "7.55 AM"
+  },
+  {
+    "from": "Kondhawa Khurd",
+    "to": "Pulgate",
+    "departureTime": "7.30 AM",
+    "arrivalTime": "8.20 AM"
+  },
+  {
+    "from": "Janata Vasahat",
+    "to": "Pune-Station",
+    "departureTime": "6.30 AM",
+    "arrivalTime": "8.00 AM"
+  }
+]

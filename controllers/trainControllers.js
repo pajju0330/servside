@@ -5,7 +5,6 @@ const getRouteABitPretty = require('../utils/getRouteABitPretty')
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 const {StatusCodes} = require('http-status-codes');
 
-
 const getTrainBetween = async(req,res) => {
 
     const {to,from} = req.query;
